@@ -32,7 +32,13 @@ npm install -g generator-commandquery
 Finally, initiate the generator:
 
 ```bash
-yo commandquery
+yo commandquery:command
+```
+
+or 
+
+```bash
+yo commandquery:query
 ```
 
 ### Getting To Know Yeoman
