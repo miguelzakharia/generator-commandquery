@@ -1,7 +1,7 @@
 {
   "name": "generator-commandquery",
-  "version": "0.0.0",
-  "description": "Yeoman generator",
+  "version": "0.0.1",
+  "description": "Yeoman generator for Command Query architecture. Scaffolds out Command, CommandHandler, Query, QueryHandler and QueryResult classes.",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "miguelzakharia/generator-commandquery",
